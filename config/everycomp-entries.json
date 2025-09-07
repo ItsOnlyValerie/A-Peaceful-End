@@ -283,6 +283,7 @@
       "stoneworks.tile_wall": true,
       "stoneworks.cracked_tiles": true,
       "mcwstairs.brick_loft_stairs": true,
+      "waystones.waystone": true,
       "mcwwindows.pane_window": true,
       "mcwpaths.mossy_crystal_floor_slab": true,
       "mcwpaths.flagstone_path": true,
