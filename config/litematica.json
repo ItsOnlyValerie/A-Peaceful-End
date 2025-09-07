@@ -86,7 +86,7 @@
     "customSchematicBaseDirectory": "C:\\Users\\Admin\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.1 Harvest \u0026 Hearth\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick",
+    "toolItem": "minecraft:feather",
     "toolItemComponents": "empty"
   },
   "Hotkeys": {

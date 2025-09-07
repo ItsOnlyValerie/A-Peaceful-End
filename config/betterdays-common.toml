@@ -3,7 +3,7 @@
 	#Day is defined as any time between dayStart (see below) and nightStart (see below) the next day.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
-	daySpeed = 0.25
+	daySpeed = 0.1
 	#The speed at which time passes during the night.
 	#Night is defined as any time between dayStart (see below) and nightStart (see below).
 	#Vanilla speed: 1.0
@@ -124,7 +124,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who were sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who were sleeping (does not include % symbol).
-			message = "§e§oTempus fugit!"
+			message = "§e§oGood morning!"
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
