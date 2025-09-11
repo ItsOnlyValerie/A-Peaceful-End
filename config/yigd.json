@@ -75,6 +75,18 @@
         "value": 3
       },
       {
+        "key": "eternal_starlight:starlight",
+        "value": -60
+      },
+      {
+        "key": "kattersstructures:deep_blue",
+        "value": -60
+      },
+      {
+        "key": "the_bumblezone:the_bumblezone",
+        "value": -60
+      },
+      {
         "key": "misc",
         "value": 3
       }
